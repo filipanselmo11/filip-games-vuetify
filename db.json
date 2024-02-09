@@ -1,0 +1,103 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "nome": "Donkey Kong Country 2",
+            "genero": "Aventura",
+            "preco": "R$ 20,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+
+        },
+        {
+            "id": 2,
+            "nome": "Tekken 8",
+            "genero": "Luta",
+            "preco": "R$ 239,90",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 3,
+            "nome": "Super Mario World",
+            "genero": "Aventura",
+            "preco": "R$ 19,90",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 4,
+            "nome": "Resident Evil Director Cut",
+            "genero": "Terror/Ação",
+            "preco": "R$ 50,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 5,
+            "nome": "Mortal Kombat 1(2023)",
+            "genero": "Luta",
+            "preco": "R$ 198,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 6,
+            "nome": "Street Fighter 6",
+            "genero": "Luta",
+            "preco": "R$ 140,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 7,
+            "nome": "Doom Eternal",
+            "genero": "FPS",
+            "preco": "R$ 80,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 8,
+            "nome": "Dota 2",
+            "genero": "MOBA",
+            "preco": "Free",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 9,
+            "nome": "League Of Legends",
+            "genero": "MOBA",
+            "preco": "Free",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 10,
+            "nome": "The King Of Fighters XV",
+            "genero": "Luta",
+            "preco": "R$ 70,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 11,
+            "nome": "Sonic The Hedhog 3",
+            "genero": "Aventura",
+            "preco": "R$ 10,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 12,
+            "nome": "Street Fighter 3",
+            "genero": "Luta",
+            "preco": "R$ 30,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 13,
+            "nome": "Donkey Kong Country 3",
+            "genero": "Aventura",
+            "preco": "R$ 70,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        },
+        {
+            "id": 14,
+            "nome": "Fifa 16",
+            "genero": "Esporte",
+            "preco": "R$ 40,00",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png"
+        }
+    ]
+}

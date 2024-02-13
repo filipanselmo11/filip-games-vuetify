@@ -1,6 +1,7 @@
 export default interface GameInterface {
   id: number,
-  nome: string,
-  genero: string,
-  preco: string,
+  name: string,
+  gender: string,
+  price: string,
+  filename: string,
 }

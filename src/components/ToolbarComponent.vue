@@ -1,6 +1,6 @@
 <template>
-  <v-card color="grey-lighten-4" flat height="49px" rounded="0">
-    <v-toolbar density="compact">
+  <v-card flat height="49px" rounded="0">
+    <v-toolbar color="grey-darken-4" density="compact">
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
       <v-toolbar-title>
         Fílip Games

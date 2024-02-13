@@ -2,10 +2,10 @@
   <v-card class="mx-auto" max-width="344">
     <v-img :src="image" height="200px"></v-img>
     <v-card-title>
-      {{ nome }}
+      {{ name }}
     </v-card-title>
     <v-card-subtitle>
-      {{ genero }} | {{  preco }}
+      {{ gender }} | {{  price }}
     </v-card-subtitle>
     <v-card-actions>
       <v-btn>
@@ -25,17 +25,17 @@ export default defineComponent({
       type: String as PropType<string>,
       required: true,
     },
-    nome: {
+    name: {
       type: String as PropType<string>,
       default: '',
       required: true,
     },
-    genero: {
+    gender: {
       type: String as PropType<string>,
       default: '',
       required: true
     },
-    preco: {
+    price: {
       type: String as PropType<string>,
       default: '',
       required: true

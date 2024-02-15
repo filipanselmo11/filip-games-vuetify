@@ -3,7 +3,7 @@
   <v-container v-else>
     <v-row no-gutters>
       <v-col v-for="item in games" :key="item.id" cols="6" md="4" sm="2">
-        <CardComponent :name="item.name" :gender="item.gender" :price="item.price" :filename="item.filename" />
+        <CardComponent :name="item.name" :gender="item.gender" :price="item.price" />
       </v-col>
     </v-row>
   </v-container>

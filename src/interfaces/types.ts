@@ -3,5 +3,5 @@ export default interface GameInterface {
   name: string,
   gender: string,
   price: string,
-  filename: string,
+  urlImage: string,
 }

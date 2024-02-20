@@ -1,6 +1,6 @@
 <template>
   <v-card class="mx-auto" max-width="344" color="grey-darken-4">
-    <v-img src="http://localhost:3333/1707830924310_donkey-kong-country-2.png" height="200px"></v-img>
+    <v-img :src="urlImage" height="200px"></v-img>
     <v-card-title>
       {{ name }}
     </v-card-title>
@@ -21,10 +21,10 @@ import { defineComponent, PropType } from 'vue';
 
 export default defineComponent({
   props: {
-    // filename: {
-    //   type: String as PropType<string>,
-    //   required: true,
-    // },
+    urlImage: {
+      type: String as PropType<string>,
+      required: true,
+    },
     name: {
       type: String as PropType<string>,
       default: '',
